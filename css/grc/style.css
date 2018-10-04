@@ -1,0 +1,8 @@
+.squareim {
+  position: relative;
+  overflow: hidden;
+  width: 270px;
+  height: 270px;
+  object-fit: cover;
+
+}
