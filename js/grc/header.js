@@ -13,8 +13,8 @@ const header_html = `
           <li>
             <a href="portfolio/index.html">Portfolio</a>
             <ul>
-              <li><a href="portfolio/reef.html">Smart Reef</a></li>
-              <li><a href="portfolio/galaxy.html">Galaxy Exercise Device</a></li>
+              <li><a href="reef.html">Smart Reef</a></li>
+              <li><a href="galaxy.html">Galaxy Exercise Device</a></li>
             </ul>
           </li>
           <li>
