@@ -19,7 +19,10 @@ const footer_html = `
         <div class="flex-item">
           <ul>
             <li><a href="about.html">About</a></li>
-            <li><a href="portfolio/index.html">Portfolio</a></li>
+            <li><a href="about.html#investmentthesis">Investment Thesis</a></li>
+            <li><a href="about.html#team">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="portfolio.html#operatingthesis">Operating Thesis</a></li>
             <li><a href="contact.html">Careers</a></li>
             <li><a href="contact.html">Contact</a></li>
             

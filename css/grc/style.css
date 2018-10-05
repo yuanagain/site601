@@ -1,8 +1,35 @@
 .squareim {
-  position: relative;
-  overflow: hidden;
-  width: 270px;
-  height: 270px;
-  object-fit: cover;
+	position: relative;
+	overflow: hidden;
+	width: 270px;
+	height: 270px;
+	object-fit: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+
+}
+
+.squareim270 {
+	position: relative;
+	overflow: hidden;
+	width: 270px;
+	height: 270px;
+	object-fit: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+
+}
+
+.squareim680 {
+	position: relative;
+	overflow: hidden;
+	width: 680px;
+	height: 680px;
+	object-fit: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
 
 }

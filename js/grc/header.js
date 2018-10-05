@@ -10,16 +10,26 @@ const header_html = `
           <li class="active">
             <a href="index.html">Home</a>
           </li>
+
           <li>
-            <a href="portfolio/index.html">Portfolio</a>
+            <a href="about.html">About</a>
             <ul>
+              <li><a href="about.html">Abstract</a></li>
+              <li><a href="about.html#investmentthesis">Investment Thesis</a></li>
+              <li><a href="about.html#team">Team</a></li>
+              <li><a href="portfolio.html#operatingthesis">Operating Thesis</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="portfolio.html">Portfolio</a>
+            <ul>
+              <li><a href="portfolio.html">Portfolio</a></li>
               <li><a href="reef.html">Smart Reef</a></li>
               <li><a href="galaxy.html">Galaxy Exercise Device</a></li>
             </ul>
           </li>
-          <li>
-            <a href="about.html">About</a>
-          </li>
+
           <li>
             <a href="contact.html">Careers</a>
           </li>

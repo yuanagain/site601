@@ -1445,10 +1445,10 @@ a.brand:focus{
   line-height: 1.71;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-height: 12;
+  max-height: 6.84;
   display: -webkit-box;
    -webkit-box-orient: vertical;
-   -webkit-line-clamp: 7;
+   -webkit-line-clamp: 4;
   color:#333333;
   -webkit-transform: translateX(-1rem);
   -ms-transform: translateX(-1rem);
